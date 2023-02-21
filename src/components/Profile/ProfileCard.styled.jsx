@@ -44,6 +44,7 @@ export const StatsContainer = styled.ul`
   justify-content: space-evenly;
   align-items: center;
   padding: 10px;
+  padding-left: 0;
   border-top: 1px solid #142d4c;
   margin: 0;
 `;
